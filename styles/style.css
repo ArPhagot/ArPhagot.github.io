@@ -11,6 +11,7 @@ body {
 }
 
 header {
+  z-index: 3;
   background-color: #210a0a;
   padding: 0 120px;
 }
